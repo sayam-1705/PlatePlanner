@@ -43,4 +43,4 @@ Run the app locally in any VS Code terminal
 
 | Method | Route | Description | Request Parameters | Response |
 |-|-|-|-|-|
-| POST | `/api/nutrition/nutrition-info` | Provides nutrition information about a ingredient | None | `calories` |
+| POST | `/api/nutrition/nutrition-info` | Provides nutrition information about a ingredient | None | `nutrition : {calories}` |
